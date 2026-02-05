@@ -29,8 +29,6 @@ mini-soc-na-pratica/
 
 ---
 
----
-
 ## 🎯 Objetivo da Fase 1 – Windows
 Analisar eventos de falha de autenticação no Windows (**Event ID 4625**), identificar comportamentos relevantes e documentar tecnicamente os achados, simulando o fluxo de trabalho de um **SOC Nível 1**.
 
@@ -112,3 +110,4 @@ A documentação e a análise técnica fazem parte das atribuições fundamentai
 
 ## 👤 Perfil Profissional
 Projeto desenvolvido com foco em aprendizado prático, evolução técnica e construção de portfólio para atuação em **Segurança da Informação / SOC / Blue Team**.
+
