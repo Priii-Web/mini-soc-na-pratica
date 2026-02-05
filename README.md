@@ -13,19 +13,22 @@ O objetivo é demonstrar capacidade técnica na identificação, filtragem, aná
 
 ## 🧱 Estrutura do Projeto
 
+
 mini-soc-na-pratica/
 ├── fase-1-windows/
-│ ├── evento-4625.md
-│ └── prints/
-│ └── evento-4625/
-│ ├── caminho-security.png
-│ ├── filtro-4625.png
-│ ├── lista-4625.png
-│ ├── evento-4625-geral.png
-│ └── evento-4625-xml.png
-├── fase-2-linux/ # (em desenvolvimento)
-├── fase-3-correlacao/ # (planejado)
+│   ├── evento-4625.md
+│   └── prints/
+│       └── evento-4625/
+│           ├── caminho-security.png
+│           ├── filtro-4625.png
+│           ├── lista-4625.png
+│           ├── evento-4625-geral.png
+│           └── evento-4625-xml.png
+├── fase-2-linux/        # (em desenvolvimento)
+├── fase-3-correlacao/   # (planejado)
 └── README.md
+
+
 
 ---
 
@@ -81,24 +84,19 @@ A documentação e a análise técnica fazem parte das atribuições fundamentai
 
 ---
 
-## 🖼️ Evidências (prints)
+🖼️ Evidências (prints)
 
-### 📍 Caminho do log
-`Windows Logs → Security`  
-![Caminho Security](fase-1-windows/prints/evento-4625/caminho-security.png)
+📍 Caminho do log:
+Windows Logs → Security
 
-### 📍 Filtro aplicado (Event ID 4625)
-![Filtro 4625](fase-1-windows/prints/evento-4625/filtro-4625.png)
+📍 Filtro aplicado:
+Event ID 4625
 
-### 📍 Lista de eventos filtrados
-![Lista 4625](fase-1-windows/prints/evento-4625/lista-4625.png)
+📍 Lista de eventos filtrados
 
-### 📍 Detalhes do evento – Aba Geral
-![Evento Geral](fase-1-windows/prints/evento-4625/evento-4625-geral.png)
+📍 Detalhes do evento – Aba Geral
 
-### 📍 Detalhes do evento – Aba XML
-![Evento XML](fase-1-windows/prints/evento-4625/evento-4625-xml.png)
-
+📍 Detalhes do evento – Aba XML
 ---
 
 ## 🚀 Próximas Etapas
@@ -110,4 +108,5 @@ A documentação e a análise técnica fazem parte das atribuições fundamentai
 
 ## 👤 Perfil Profissional
 Projeto desenvolvido com foco em aprendizado prático, evolução técnica e construção de portfólio para atuação em **Segurança da Informação / SOC / Blue Team**.
+
 
