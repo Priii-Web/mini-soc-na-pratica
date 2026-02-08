@@ -1,4 +1,5 @@
-# 🛡️ Mini SOC – Fase 1 | Windows
+# 🚨 Event ID 4625 – Falha de Autenticação (Windows)
+
 
 ## 📌 Objetivo
 
@@ -98,4 +99,5 @@ Esta atividade reforça o papel do **SOC Nível 1** na triagem, documentação e
 ---
 
 Documento finalizado para fins de estudo, documentação técnica e composição de portfólio em Segurança da Informação.
+
 
